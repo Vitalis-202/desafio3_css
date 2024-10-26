@@ -95,7 +95,7 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 .card {
@@ -184,7 +184,7 @@ body {
         flex-direction: row;
         justify-content: space-around;
         align-items: flex-start;
-        overflow: scroll;
+        overflow-y: scroll;
         flex-wrap: wrap;
         margin-top:2px;
         margin-bottom: 2px;
